@@ -12,11 +12,11 @@ The analysis was performed by first...
 ## Results
 
 ### Analysis of 2017 Performance
-During the months of June, July, and August, there was a peak in successful theater campaigns. Following the summer peak, campaign success rates declined. <br />
+... <br />
 ![2017 Macro Runtime](Resources/VBA_Challenge_2017.png)
 
 ### Analysis of 2018 Performance
-Out of 69% of all theater campaigns held (1,042), more than 73% (528) of them were successful when their fundraising goal was below $5,000. <br />
+.... <br />
 ![2018 Macro Runtime](Resources/VBA_Challenge_2018.png)
 
 
