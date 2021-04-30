@@ -1,15 +1,12 @@
 # VBA of Wall Street Stock Analysis
 
 ## Overview of Project
-
-### Purpose
 This project was focused on determining...
-
-## Analysis and Challenges
-The analysis was performed by first...
 
 
 ## Results
+The analysis was performed by first...
+
 
 ### Analysis of 2017 Performance
 ... <br />
