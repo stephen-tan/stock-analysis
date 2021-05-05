@@ -24,5 +24,5 @@ Advantages of code refactoring include optimizing code to make it more efficient
 
 
 - **How do these pros and cons apply to refactoring the original VBA script?** <br />
-...
+One of the pros to the code refactoring was organizing the stock data to be stored in arrays, which was previously not done in the original VBA script. One of the cons, however, involved reformatting the code such that each index of the array had to be accessed when populating and outputting the data.
 
