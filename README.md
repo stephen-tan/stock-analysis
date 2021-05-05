@@ -10,11 +10,11 @@ The results of the analysis showed that 2017 was a far better year than 2018 for
 
 ### Analysis of 2017 Performance
 Before refactoring, the macro ran for 0.433s before refactoring and 0.387s afterwards, yielding a 10.6% decrease in runtime. <br />
-![2017 Macro Runtime](Resources/VBA_Challenge_2017.png)
+![2017 Macro Runtime](Resources/VBA_Challenge_2017_Windows.png)
 
 ### Analysis of 2018 Performance
 Before refactoring, the macro ran for 0.0.430s before refactoring and 0.387s afterwards, yielding a 9.1% decrease in runtime. <br />
-![2018 Macro Runtime](Resources/VBA_Challenge_2018.png)
+![2018 Macro Runtime](Resources/VBA_Challenge_2018_Windows.png)
 
 
 ## Summary
